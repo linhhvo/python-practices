@@ -1,0 +1,5 @@
+c2300
+jflintmont 3.3
+mstanham 2.7
+nfuggles 3.0
+vbraddyll 4.0

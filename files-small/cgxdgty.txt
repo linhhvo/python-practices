@@ -1,0 +1,8 @@
+c2075
+jflintmont 3.0
+mstanham 3.7
+tweambie 2.7
+aslone 3.3
+vbraddyll 3.0
+nfuggles 2.3
+jkambora 2.3
